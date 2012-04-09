@@ -18,6 +18,7 @@ Roadmap to CouchDB 2.0
   - Re-use nightly tarballs as the votable artifacts.
 
 **Version Numbers and Breaking Changes**
+
   - We need to release breaking changes more quickly.
   - Use Node.JS as a model.
   - Version numbers aren't as important as releasing.
@@ -27,12 +28,14 @@ Roadmap to CouchDB 2.0
   - We need to figure out LTS, how long, etc. The timelines need to overlap.
 
 **2.0 and What Does the Major Number Mean**
+
   - Moving forward the industry is going to be using different databases for
     different problems. We don't need to be all things to all people.
   - We're going to have a log warning for deprecated features. "This feature
     you're using won't work in the next release."
 
 **The Results**
+
   - Release branches are always stable (release-able).
   - Faster, time based releases.
   - Need to define what a LTS is.
