@@ -1,4 +1,5 @@
-== Branding / What is Couch?
+Branding / What is Couch?
+-------------------------
 
   - Replicator, HTTP, and JSON are key
   - couchapp/peer-2-peer vs bigdata => similarity is that it's a database
@@ -14,7 +15,8 @@
   - synchable.org describes SLEEP
   - It's a database! With outlets! (for modules like SLEEP)
 
-== Code Contribution Flow
+Code Contribution Flow
+----------------------
 
   - Copy jQuery's flow
     - Contribution guide
