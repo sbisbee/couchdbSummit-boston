@@ -16,7 +16,7 @@ Weight Loss: What to Remove
 
   - _sleep
 
-  - How long to keep old revs?
+  - How long to keep old revs? missing revs
 
   - total_rows and offset fields in view results
 
@@ -41,5 +41,12 @@ Weight Loss: What to Remove
     - _sleep
 
     - temporary views (do them in browser)
+
+    - list/show
+
+    - default.ini/local.ini => defaults are internal and the ini file is just
+      all commented out.
+
+  - Address design docs [incomplete, need to look at Joan's notes for the rest]
 
 [incomplete, need to look at Joan's notes for the rest]
